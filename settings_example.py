@@ -1,0 +1,6 @@
+MQTT_user="user"
+MQTT_pw="vpw"
+MQTT_host="host.fi"
+MQTT_topic="topic/"
+mp3message="tricker"
+mp3file="sound.mp3"
